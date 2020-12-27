@@ -7,6 +7,9 @@ const data = {
         image: '/images/f1.jpg',
         price: 120,
         brand: 'Walmart',
+        location: 'Los Angeles, CA', 
+        distance: 9,
+        condition: 'Used', 
         description: 'It\'s in very good condition'
       },
       {
@@ -16,6 +19,9 @@ const data = {
         image: '/images/f2.jpg',
         price: 80,
         brand: 'Target',
+        location: 'Los Angeles, CA', 
+        distance: 9,
+        condition: 'Used', 
         description: 'It\'s in very good condition'
       },
       {
@@ -25,6 +31,9 @@ const data = {
         image: '/images/f3.jpg',
         price: 50,
         brand: 'Ikea',
+        location: 'Los Angeles, CA', 
+        distance: 9,
+        condition: 'Used', 
         description: 'It\'s in very good condition'
       },
       {
@@ -34,6 +43,9 @@ const data = {
         image: '/images/f4.jpg',
         price: 30,
         brand: 'Target',
+        location: 'Los Angeles, CA', 
+        distance: 9,
+        condition: 'Used', 
         description: 'It\'s in very good condition'
       },
       {
@@ -43,6 +55,9 @@ const data = {
         image: '/images/f5.jpg',
         price: 200,
         brand: 'Walmart',
+        location: 'Los Angeles, CA', 
+        distance: 9,
+        condition: 'Used', 
         description: 'It\'s in very good condition'
       },
       {
@@ -52,6 +67,9 @@ const data = {
         image: '/images/f6.jpg',
         price: 110,
         brand: 'Walmart',
+        location: 'Los Angeles, CA', 
+        distance: 9,
+        condition: 'Used', 
         description: 'It\'s in very good condition'
       },
     ],

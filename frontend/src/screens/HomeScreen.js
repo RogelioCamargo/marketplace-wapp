@@ -3,10 +3,10 @@ import React from 'react'
 // import styles
 import "./styles.css"; 
 
-// import data. 
+// import data
 import data from "../data"; 
 
-// import components. 
+// import components
 import Post from "../components/Post"; 
 
 export default function HomeScreen() {
